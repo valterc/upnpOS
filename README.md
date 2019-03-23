@@ -2,7 +2,7 @@ upnpOS
 ======
 
 
-####Micro Operating System for embedded systems with support for plug and play devices
+### Micro Operating System for embedded systems with support for plug and play devices
 -----------
 
 
@@ -23,7 +23,7 @@ The system is split in 4 components:
 
 ___
 
-###Usage
+### Usage
 
 Create drivers for your devices and use the functions on the umain file to interact with the OS and the devices. 
 
